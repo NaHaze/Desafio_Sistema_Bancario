@@ -1,6 +1,8 @@
 
 # Desafio_Sistema_Bancario
-Projeto prático realizado nas aulas de Fundamentos de Python. Curso ministrado pela ![dio_avatar](https://github.com/NaHaze/Desafio_Sistema_Bancario/assets/104529965/572805ff-b228-4467-bffe-4733cdea15b2)
+Projeto prático realizado nas aulas de Fundamentos de Python. Curso ministrado pela ![dio_avatar_](https://github.com/NaHaze/Desafio_Sistema_Bancario/assets/104529965/623afe5c-bc77-48ec-a08d-d2edacf1a0bd)
+
+
 
 
 
