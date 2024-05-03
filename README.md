@@ -1,6 +1,8 @@
 
 # Desafio_Sistema_Bancario
-Projeto prático realizado nas aulas de Fundamentos de Python. Curso ministrado pela DIO.
+Projeto prático realizado nas aulas de Fundamentos de Python. Curso ministrado pela ![dio_avatar](https://github.com/NaHaze/Desafio_Sistema_Bancario/assets/104529965/572805ff-b228-4467-bffe-4733cdea15b2)
+
+
 
 ## O que é o projeto 🏦
 Projeto consiste na resolução de um sistema bancário, onde podemos depositar, sacar dinheiro e ver extrato bancário.
